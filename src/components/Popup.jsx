@@ -7,12 +7,12 @@ const Popup = () => {
         Get up to <span className="text-green-500 font-bold">50% OFF</span> on
       </div>
       <div className="text-3xl sm:text-5xl font-bold">
-        <span className="text-green-500">DUBAI</span> Tour Packages!
+        <span className="text-green-500">Thailand</span> Tour Packages!
       </div>
       <hr className="w-1/2"></hr>
       <div className="text-xl">
-        Starting at <span className="font-bold">INR 34,999</span>{" "}
-        <strike>INR 69,998</strike>
+        Starting at <span className="font-bold">INR 12,999</span>{" "}
+        <strike>INR 34,999</strike>
       </div>
       <button className="btn btn-primary">
         <a href="https://chat.whatsapp.com/FTeRhzWFP0dCyolaCoZtWG">

@@ -10,7 +10,7 @@ const Navbar = () => {
             className="min-w-32 max-w-52"
           /> */}
           <div className="text-3xl text-white font-thin">
-            Travel and Holidays
+            <a href="/">Travel and Holidays</a>
           </div>
         </div>
         <div className="navbar-center"></div>
